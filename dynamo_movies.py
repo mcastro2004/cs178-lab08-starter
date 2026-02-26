@@ -1,5 +1,6 @@
 # Lab 8 - Michael Castro
 # Version 2
+# This is my third line.
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
